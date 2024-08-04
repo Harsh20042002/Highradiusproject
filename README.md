@@ -32,7 +32,7 @@ This project involves the creation of data models, machine learning models, UI c
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Harsh20042002/Highradiusproject.git
    cd your-repo
    ```
 
