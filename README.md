@@ -94,4 +94,4 @@ If you would like to contribute to this project, please follow these steps:
 
 ## Contact
 
-For any questions or inquiries, please contact [20051144@kiit.ac.in].
+For any questions or inquiries, please contact [harshvardhanfaldu@gmail.com].
